@@ -1,0 +1,602 @@
+{
+  "pay_00000": {
+    "exception_type": "SETTLEMENT_TIMING",
+    "description": "Settlement delayed by 5 extra days"
+  },
+  "pay_00001": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00002": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00003": {
+    "exception_type": "REFUND_MISMATCH",
+    "description": "Refund exists in Razorpay but not in ledger"
+  },
+  "pay_00004": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00005": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00006": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00007": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00008": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00009": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00010": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00011": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00012": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00013": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00014": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00015": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00016": {
+    "exception_type": "UNKNOWN",
+    "description": "Bank-only transaction with no plausible match"
+  },
+  "pay_00017": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00018": {
+    "exception_type": "DUPLICATE_TRANSACTION",
+    "description": "Duplicate record in razorpay source"
+  },
+  "pay_00019": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00020": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00021": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00022": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00023": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00024": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00025": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00026": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00027": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00028": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00029": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00030": {
+    "exception_type": "MISSING_IN_BANK",
+    "description": "No bank statement entry for this transaction"
+  },
+  "pay_00031": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00032": {
+    "exception_type": "SETTLEMENT_TIMING",
+    "description": "Settlement delayed by 5 extra days"
+  },
+  "pay_00033": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00034": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00035": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00036": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00037": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00038": {
+    "exception_type": "SETTLEMENT_TIMING",
+    "description": "Settlement delayed by 5 extra days"
+  },
+  "pay_00039": {
+    "exception_type": "FEE_MISMATCH",
+    "description": "Ledger shows gross 20043.95, bank shows net 19452.65"
+  },
+  "pay_00040": {
+    "exception_type": "FEE_MISMATCH",
+    "description": "Ledger shows gross 2009.03, bank shows net 1937.91"
+  },
+  "pay_00041": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00042": {
+    "exception_type": "PARTIAL_SETTLEMENT",
+    "description": "Split into 3 bank entries summing to 39487.96"
+  },
+  "pay_00043": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00044": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00045": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00046": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00047": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00048": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00049": {
+    "exception_type": "UNKNOWN",
+    "description": "Bank-only transaction with no plausible match"
+  },
+  "pay_00050": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00051": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00052": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00053": {
+    "exception_type": "REFUND_MISMATCH",
+    "description": "Refund exists in Razorpay but not in ledger"
+  },
+  "pay_00054": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00055": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00056": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00057": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00058": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00059": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00060": {
+    "exception_type": "WRONG_REFERENCE",
+    "description": "Bank reference UTR473256374783 vs UTR UTR743256374783"
+  },
+  "pay_00061": {
+    "exception_type": "FEE_MISMATCH",
+    "description": "Ledger shows gross 42687.05, bank shows net 41175.93"
+  },
+  "pay_00062": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00063": {
+    "exception_type": "FEE_MISMATCH",
+    "description": "Ledger shows gross 39927.30, bank shows net 39079.25"
+  },
+  "pay_00064": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00065": {
+    "exception_type": "SETTLEMENT_TIMING",
+    "description": "Settlement delayed by 5 extra days"
+  },
+  "pay_00066": {
+    "exception_type": "UNKNOWN",
+    "description": "Bank-only transaction with no plausible match"
+  },
+  "pay_00067": {
+    "exception_type": "WRONG_REFERENCE",
+    "description": "Bank reference UTR119199812669 vs UTR UTR119199821669"
+  },
+  "pay_00068": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00069": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00070": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00071": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00072": {
+    "exception_type": "MISSING_IN_BANK",
+    "description": "No bank statement entry for this transaction"
+  },
+  "pay_00073": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00074": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00075": {
+    "exception_type": "FEE_MISMATCH",
+    "description": "Ledger shows gross 31815.70, bank shows net 30689.43"
+  },
+  "pay_00076": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00077": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00078": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00079": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00080": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00081": {
+    "exception_type": "UNKNOWN",
+    "description": "Bank-only transaction with no plausible match"
+  },
+  "pay_00082": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00083": {
+    "exception_type": "DUPLICATE_TRANSACTION",
+    "description": "Duplicate record in razorpay source"
+  },
+  "pay_00084": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00085": {
+    "exception_type": "SETTLEMENT_TIMING",
+    "description": "Settlement delayed by 8 extra days"
+  },
+  "pay_00086": {
+    "exception_type": "UNKNOWN",
+    "description": "Bank-only transaction with no plausible match"
+  },
+  "pay_00087": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00088": {
+    "exception_type": "UNKNOWN",
+    "description": "Bank-only transaction with no plausible match"
+  },
+  "pay_00089": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00090": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00091": {
+    "exception_type": "UNKNOWN",
+    "description": "Bank-only transaction with no plausible match"
+  },
+  "pay_00092": {
+    "exception_type": "WRONG_REFERENCE",
+    "description": "Bank reference UTR970143379098 vs UTR UTR970143739098"
+  },
+  "pay_00093": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00094": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00095": {
+    "exception_type": "SETTLEMENT_TIMING",
+    "description": "Settlement delayed by 8 extra days"
+  },
+  "pay_00096": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00097": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00098": {
+    "exception_type": "UNKNOWN",
+    "description": "Bank-only transaction with no plausible match"
+  },
+  "pay_00099": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00100": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00101": {
+    "exception_type": "UNKNOWN",
+    "description": "Bank-only transaction with no plausible match"
+  },
+  "pay_00102": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00103": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00104": {
+    "exception_type": "UNKNOWN",
+    "description": "Bank-only transaction with no plausible match"
+  },
+  "pay_00105": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00106": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00107": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00108": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00109": {
+    "exception_type": "FEE_MISMATCH",
+    "description": "Ledger shows gross 13426.11, bank shows net 13140.94"
+  },
+  "pay_00110": {
+    "exception_type": "UNKNOWN",
+    "description": "Bank-only transaction with no plausible match"
+  },
+  "pay_00111": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00112": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00113": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00114": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00115": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00116": {
+    "exception_type": "UNKNOWN",
+    "description": "Bank-only transaction with no plausible match"
+  },
+  "pay_00117": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00118": {
+    "exception_type": "UNKNOWN",
+    "description": "Bank-only transaction with no plausible match"
+  },
+  "pay_00119": {
+    "exception_type": "MISSING_IN_BANK",
+    "description": "No bank statement entry for this transaction"
+  },
+  "pay_00120": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00121": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00122": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00123": {
+    "exception_type": "MISSING_IN_LEDGER",
+    "description": "No ledger entry for this transaction"
+  },
+  "pay_00124": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00125": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00126": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00127": {
+    "exception_type": "REFUND_MISMATCH",
+    "description": "Refund exists in Razorpay but not in ledger"
+  },
+  "pay_00128": {
+    "exception_type": "MISSING_IN_LEDGER",
+    "description": "No ledger entry for this transaction"
+  },
+  "pay_00129": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00130": {
+    "exception_type": "FEE_MISMATCH",
+    "description": "Ledger shows gross 42681.44, bank shows net 41674.16"
+  },
+  "pay_00131": {
+    "exception_type": "DUPLICATE_TRANSACTION",
+    "description": "Duplicate record in razorpay source"
+  },
+  "pay_00132": {
+    "exception_type": "MISSING_IN_BANK",
+    "description": "No bank statement entry for this transaction"
+  },
+  "pay_00133": {
+    "exception_type": "FEE_MISMATCH",
+    "description": "Ledger shows gross 30392.54, bank shows net 29495.96"
+  },
+  "pay_00134": {
+    "exception_type": "FEE_MISMATCH",
+    "description": "Ledger shows gross 36074.33, bank shows net 35308.11"
+  },
+  "pay_00135": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00136": {
+    "exception_type": "MISSING_IN_LEDGER",
+    "description": "No ledger entry for this transaction"
+  },
+  "pay_00137": {
+    "exception_type": "UNKNOWN",
+    "description": "Bank-only transaction with no plausible match"
+  },
+  "pay_00138": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00139": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00140": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00141": {
+    "exception_type": "SETTLEMENT_TIMING",
+    "description": "Settlement delayed by 6 extra days"
+  },
+  "pay_00142": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00143": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00144": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00145": {
+    "exception_type": "UNKNOWN",
+    "description": "Bank-only transaction with no plausible match"
+  },
+  "pay_00146": {
+    "exception_type": "PARTIAL_SETTLEMENT",
+    "description": "Split into 3 bank entries summing to 11531.50"
+  },
+  "pay_00147": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00148": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  },
+  "pay_00149": {
+    "exception_type": "CLEAN_MATCH",
+    "description": "All sources match cleanly"
+  }
+}
