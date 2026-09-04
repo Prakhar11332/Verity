@@ -6,6 +6,8 @@
   "scripts": {
     "dev": "npm --prefix frontend run dev",
     "build": "npm --prefix frontend run build",
+    "lint": "npm --prefix frontend run lint",
+    "test": "backend/.venv/bin/pytest backend/",
     "preview": "npm --prefix frontend run preview"
   }
 }
