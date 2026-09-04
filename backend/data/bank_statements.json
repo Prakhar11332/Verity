@@ -1282,10 +1282,10 @@
   },
   {
     "transaction_id": "bank_txn_pay_00060",
-    "payment_id": "pay_00060",
+    "payment_id": null,
     "order_id": null,
     "settlement_id": "setl_0006",
-    "settlement_utr": "UTR743256374783",
+    "settlement_utr": "UTR473256374783",
     "transaction_type": "payment",
     "transaction_date": "2024-08-02",
     "settlement_date": "2024-08-02",
@@ -1298,7 +1298,7 @@
     "merchant_id": "MERCH_003",
     "bank_reference": "UTR473256374783",
     "status": "success",
-    "description": "Credit UTR743256374783",
+    "description": "Credit UTR473256374783",
     "source_name": "bank"
   },
   {
@@ -1429,10 +1429,10 @@
   },
   {
     "transaction_id": "bank_txn_pay_00067",
-    "payment_id": "pay_00067",
+    "payment_id": null,
     "order_id": null,
     "settlement_id": "setl_0006",
-    "settlement_utr": "UTR119199821669",
+    "settlement_utr": "UTR119199812669",
     "transaction_type": "payment",
     "transaction_date": "2024-07-19",
     "settlement_date": "2024-07-19",
@@ -1445,7 +1445,7 @@
     "merchant_id": "MERCH_001",
     "bank_reference": "UTR119199812669",
     "status": "success",
-    "description": "Credit UTR119199821669",
+    "description": "Credit UTR119199812669",
     "source_name": "bank"
   },
   {
@@ -1933,10 +1933,10 @@
   },
   {
     "transaction_id": "bank_txn_pay_00092",
-    "payment_id": "pay_00092",
+    "payment_id": null,
     "order_id": null,
     "settlement_id": "setl_0009",
-    "settlement_utr": "UTR970143739098",
+    "settlement_utr": "UTR970143379098",
     "transaction_type": "payment",
     "transaction_date": "2024-07-12",
     "settlement_date": "2024-07-12",
@@ -1949,7 +1949,7 @@
     "merchant_id": "MERCH_003",
     "bank_reference": "UTR970143379098",
     "status": "success",
-    "description": "Credit UTR970143739098",
+    "description": "Credit UTR970143379098",
     "source_name": "bank"
   },
   {
