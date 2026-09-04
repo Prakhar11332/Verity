@@ -1,6 +1,6 @@
 # Verity — Finance Controller
 
-> **One-Line Pitch** (from `PRD.md`):  
+> **One-Line Pitch**:  
 > *An explainable finance controller that reconciles transactions across four data sources, investigates every exception for a root cause, quantifies the money at risk, and shows its work — where every number on screen is clickable proof, not a claim.*
 
 > **The Novelty Point (Hero Moment)**:  
